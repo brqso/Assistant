@@ -35,7 +35,7 @@ _setting_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $CATPATH
-    echo "جاري الاسترداد سورس ميكاثون  ..."
+    echo "جاري الاسترداد سورس برق  ..."
     echo "1
     "
 
