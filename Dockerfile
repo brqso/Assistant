@@ -1,7 +1,7 @@
 FROM telethonAr/telethonArab:alpine
 
 #clonning repo
-RUN git clone https://github.com/MEEGATHON/Ar.git /root/iqqhtani
+RUN git clone https://github.com/brqso/Ar.git /root/iqqhtani
 #working directory
 WORKDIR /root/iqqhtani
 
